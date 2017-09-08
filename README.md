@@ -7,4 +7,8 @@
     <td><a href="https://github.com/Narutocc/compatible/issues/3"/>js判断不同浏览器</td>
     <td><a href="https://github.com/Narutocc/compatible/issues/4"/>在IE9实现placeholder功能</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/compatible/issues/5"/>textarea输入框限制字数</td>
+    <td><a href="https://github.com/Narutocc/compatible/issues/6"/>在IE9实现placeholder功能</td>
+  </tr>
 </table>
