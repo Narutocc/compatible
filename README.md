@@ -13,5 +13,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/compatible/issues/7"/>IE8中的first-child</td>
+    <td><a href="https://github.com/Narutocc/compatible/issues/8"/>IE8加载复用表格出现空白问题</td>
   </tr>
 </table>
